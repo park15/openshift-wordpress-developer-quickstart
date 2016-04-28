@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frizi-arcade\n"
+"POT-Creation-Date: 2015-05-29 13:53+0100\n"
+"PO-Revision-Date: 2015-05-29 13:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: arcadepulse <info@arcadepulse.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../option-tree\n"
+
+#: ../box-bestratedgames.php:12 ../header.php:67 ../header.php:79
+#: ../header.php:83
+msgid "Top Rated"
+msgstr ""
+
+#: ../box-game-category.php:11 ../box-mostplayedgames.php:11
+#: ../box-recentgames.php:11 ../header.php:65 ../header.php:78
+#: ../header.php:82
+msgid "Most Played"
+msgstr ""
+
+#: ../box-game-category.php:12 ../functions.php:460
+msgid "SHOW All"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Comments:"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Add comment"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Your name*"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Your email*"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Your website"
+msgstr ""
+
+#: ../comments.php:60 ../comments.php:77
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:61 ../comments.php:78
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:62 ../comments.php:79
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-games-index.php:18
+msgid "New Games"
+msgstr ""
+
+#: ../content-games-index.php:23
+msgid "latest"
+msgstr ""
+
+#: ../content-games-index.php:24
+msgid "most played"
+msgstr ""
+
+#: ../content-games-index.php:25
+msgid "top rated"
+msgstr ""
+
+#: ../content-games-index.php:94
+msgid "Show more games"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:18 ../content-single.php:20 ../content.php:27
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:24 ../content-single.php:60 ../content.php:61
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../content-single.php:29 ../content-single.php:32 ../content.php:38
+#: ../content.php:48
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:37
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:39
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:45
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:47
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:42
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:52
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:58
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:58
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:58
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:59
+msgid "Page Menu"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:242
+msgid "Loading..."
+msgstr ""
+
+#: ../functions.php:243
+msgid "Sending..."
+msgstr ""
+
+#: ../functions.php:244
+msgid "Goodbye..."
+msgstr ""
+
+#: ../functions.php:245
+msgid "Name is required. "
+msgstr ""
+
+#: ../functions.php:246
+msgid "Email is required. "
+msgstr ""
+
+#: ../functions.php:247
+msgid "Email is invalid. "
+msgstr ""
+
+#: ../functions.php:248
+msgid "Message is required."
+msgstr ""
+
+#: ../functions.php:903
+msgid "Failed To Verify Referrer"
+msgstr ""
+
+#: ../functions.php:1111 ../functions.php:1184 ../functions.php:1290
+msgid "Report game"
+msgstr ""
+
+#: ../functions.php:1119 ../functions.php:1228
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:1122 ../functions.php:1231
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:1125
+msgid "What's wrong with game?"
+msgstr ""
+
+#: ../functions.php:1131 ../functions.php:1244
+msgid "Code"
+msgstr ""
+
+#: ../functions.php:1138 ../functions.php:1251
+msgid "Send"
+msgstr ""
+
+#: ../functions.php:1168 ../functions.php:1280
+msgid "Unfortunately,wrong captcha."
+msgstr ""
+
+#: ../functions.php:1178
+msgid "Game id: "
+msgstr ""
+
+#: ../functions.php:1179
+msgid "Game url: "
+msgstr ""
+
+#: ../functions.php:1185 ../functions.php:1291
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: ../functions.php:1187 ../functions.php:1293
+msgid "Unfortunately, your message could not be verified."
+msgstr ""
+
+#: ../functions.php:1221
+msgid "Contact us"
+msgstr ""
+
+#: ../functions.php:1234
+msgid "Subject"
+msgstr ""
+
+#: ../functions.php:1237
+msgid "Message"
+msgstr ""
+
+#: ../functions.php:1312
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:1312 ../functions.php:1329
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:1323
+#, php-format
+msgid "<span class=\"says\">%s</span> "
+msgstr ""
+
+#: ../functions.php:1333
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1340
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:1492 ../functions.php:1497 ../functions.php:1563
+#: ../functions.php:1586
+msgid "Share"
+msgstr ""
+
+#: ../functions.php:1552 ../functions.php:1591
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:1554 ../functions.php:1592
+msgid "Categories"
+msgstr ""
+
+#: ../header.php:69 ../header.php:77 ../header.php:81
+msgid "Latest"
+msgstr ""
+
+#: ../header.php:93 ../header.php:105 ../searchform.php:5
+msgid "Search..."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:196 ../inc/plugins.php:48
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:197 ../inc/plugins.php:49
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:198 ../inc/plugins.php:50
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:211 ../inc/plugins.php:62
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:212
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:213
+#: ../inc/class-tgm-plugin-activation.php:2005 ../inc/plugins.php:63
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:214
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:215
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:216
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:564
+#: ../inc/class-tgm-plugin-activation.php:2222
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1201
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1204
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1209
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1212
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1212
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1215
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1217
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1219
+msgid "Not Updated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1221
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1322
+#: ../inc/class-tgm-plugin-activation.php:1452
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1344
+#: ../inc/class-tgm-plugin-activation.php:1453
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1416
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1431
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1432
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1433
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1434
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1454
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1564
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1673
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1988
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1989
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1990
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1991
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1992
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1993
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2004
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2118
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#: ../inc/class-tgm-plugin-activation.php:2128
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#: ../inc/class-tgm-plugin-activation.php:2128
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2120
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2121
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2125
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2126
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2127
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2128
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2129
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2130
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:21
+msgid "Add New Game"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:22
+msgid "New Game"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:23
+msgid "Edit Game"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:24
+msgid "View Game"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:25
+msgid "All Games"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:26
+msgid "Search Games"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:27
+msgid "Parent Games:"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:28
+msgid "No games found."
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:29
+msgid "No games found in Trash."
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:76
+msgid "Search Genres"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:77
+msgid "All Game Categories"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:78
+msgid "Parent Game Category"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:79
+msgid "Parent Game Category:"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:80
+msgid "Edit Game Category"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:81
+msgid "Update Game Category"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:82
+msgid "Add New Game Category"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:83
+msgid "New Game Category Name"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:84
+msgid "Game categories"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:102
+msgid "Search Game Tags"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:103
+msgid "Popular Game Tags"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:104
+msgid "All Game Tags"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:107
+msgid "Edit Game Tag"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:108
+msgid "Update Game Tag"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:109
+msgid "Add New Game Tag"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:110
+msgid "New Writer Game Tag"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:111
+msgid "Separate Game Tags with commas"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:112
+msgid "Add or remove Game Tags"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:113
+msgid "Choose from the most used Game Tags"
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:114
+msgid "No Game Tags found."
+msgstr ""
+
+#: ../inc/custom-post-type-game.php:115
+msgid "Game Tags"
+msgstr ""
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/plugins.php:51
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins.php:64
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:54
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:326
+msgid "Close"
+msgstr ""
+
+#: ../inc/template-tags.php:402
+msgid "Report Broken"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:24
+msgid "Game info"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:47 ../inc/theme-meta-boxes.php:119
+msgid "Choose or Upload file"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:48
+msgid "Use this file"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:80
+msgid "Game description"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:87
+msgid "Game instruction"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:94
+msgid "Game code"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:99
+msgid "or"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:102
+msgid "Game width"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:108
+msgid "Game height"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:116
+msgid "Game file"
+msgstr ""
+
+#: ../inc/theme-meta-boxes.php:120
+msgid "Remove file"
+msgstr ""
+
+#: ../inc/update.php:73
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../inc/update.php:78
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../inc/update.php:101
+#, php-format
+msgid ""
+"New Arcade Pulse theme update is now available. Update now to version %s . "
+"<a href=\"%s\">Click here!</a>."
+msgstr ""
+
+#: ../index.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../index.php:31
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the games "
+"below or a search?"
+msgstr ""
+
+#: ../sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#: ../single-games.php:37
+msgid "Lights"
+msgstr ""
+
+#: ../single-games.php:41
+msgid "Fullscreen"
+msgstr ""
+
+#: ../single-games.php:122 ../single-games.php:276
+msgid "Similar"
+msgstr ""
+
+#: ../single-games.php:146
+msgid "Play"
+msgstr ""
+
+#: ../single-games.php:189
+msgid "How to play?"
+msgstr ""
+
+#: ../single-games.php:198
+msgid "Description:"
+msgstr ""
+
+#: ../single-games.php:201
+msgid "Category:"
+msgstr ""
+
+#: ../single-games.php:202
+msgid "Tags:"
+msgstr ""
+
+#: ../single-games.php:204
+msgid "Rating:"
+msgstr ""
